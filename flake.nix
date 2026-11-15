@@ -5,6 +5,6 @@
     {
       lock = ./lockpaper.png;
       face = ./face.icon;
-      background = ./wallpaper.jpeg;
+      background = ./wallpaper.jpg;
     };
 }
